@@ -6,6 +6,8 @@
 
 [常用资源](https://shimo.im/docs/MuiACIg1HlYfVxrj/)
 [高级java](<http://www.ruobiying.online/advanced-java/>)
+[Redux](<https://cn.redux.js.org/>)
+[TypeScript 中文手册](<https://typescript.bootcss.com/tutorials/react.html>)
 [开始阅读](#java)
 
 ![](./media/pictures/rostyslav-savchyn-5joK905gcGc-unsplash.jpg)
